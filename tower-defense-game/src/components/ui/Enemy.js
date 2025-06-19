@@ -55,3 +55,4 @@ const Enemy = ({ enemy, isTargeted = false, showHealthBar = true }) => {
     </div>
   );
 };
+export default Enemy;

@@ -66,3 +66,4 @@ const UpgradePanel = ({ stats, points, onUpgrade, gameStatus, className = "" }) 
     </div>
   );
 };
+export default UpgradePanel;

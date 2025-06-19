@@ -58,3 +58,4 @@ const Player = ({ position, health, maxHealth, stats, showRange = true }) => {
     </div>
   );
 };
+export default Player;

@@ -78,3 +78,4 @@ const GameOverlay = ({ gameStatus, score, wave, onRestart, onResume, className =
     </div>
   );
 };
+export default GameOverlay;
