@@ -1,4 +1,3 @@
-// systems/ParticleSystem.js
 /**
  * Particle system for visual effects and feedback
  * Enhances game feel through dynamic visual elements
@@ -139,4 +138,4 @@ export class ParticleSystem {
   clear() {
     this.particles = [];
   }
-}
+};
